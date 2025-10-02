@@ -10,3 +10,4 @@
 9. git checkout master//cambiar de rama (master la rama qu tu quieres entrar)
 10. git merge(rama) //fusionar cambios de una y otra rama
 11. git branch -d (rama) /borra la rama 
+12. git commit -am //comando que une a git add . y commit.
